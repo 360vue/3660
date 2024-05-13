@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-2panorama_gf-kit_2023-12-06-21-43-09",
-      "name": "2Panorama_GF Kit_2023-12-06-21-43-09",
+      "id": "0-panorama_gf-kit_2024-05-13-11-47-41",
+      "name": "Panorama_GF Kit_2024-05-13-11-47-41",
       "levels": [
         {
           "tileSize": 256,
@@ -28,9 +28,9 @@ var APP_DATA = {
       ],
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.6428821359871986,
+        "pitch": 0.007792293322953725,
+        "fov": 1.397892632121691
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -40,7 +40,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
